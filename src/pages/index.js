@@ -38,7 +38,7 @@ export default (() => {
 					<Override slot="StackItemContent" align-items="center" />
 					{"        "}
 					<Link href="/" position="relative" transition="opacity 200ms ease" quarkly-title="Link">
-						<Image src="https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-logo.svg?v=2020-11-06T17:26:21.226Z" width="120px" z-index="3" />
+						<Image src="https://uploads.quarkly.io/5fb33f1708b41a001fec3e05/images/EE%20Motorsport-02.png?v=2020-11-17T05:15:30.187Z" width="120px" z-index="3" />
 					</Link>
 				</StackItem>
 				<StackItem width="50%" display="block" quarkly-title="Menu" md-width="25%">
@@ -1208,7 +1208,7 @@ export default (() => {
 						hover-text-decoration-line="underline"
 						white-space="nowrap"
 					>
-						Made on Quarkly
+						Made by Qaiyum
 					</Link>
 					{"        "}
 				</StackItem>
